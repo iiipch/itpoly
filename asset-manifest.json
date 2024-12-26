@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iiipch/itpoly.git/static/css/main.10098903.css",
+    "main.js": "/iiipch/itpoly.git/static/js/main.54894556.js",
+    "index.html": "/iiipch/itpoly.git/index.html",
+    "main.10098903.css.map": "/iiipch/itpoly.git/static/css/main.10098903.css.map",
+    "main.54894556.js.map": "/iiipch/itpoly.git/static/js/main.54894556.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10098903.css",
+    "static/js/main.54894556.js"
+  ]
+}
