@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/iiipch/itpoly.git",
+  "homepage": "https://iiipch.github.io/itpoly/",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
