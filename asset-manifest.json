@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/itpoly/static/css/main.10098903.css",
-    "main.js": "/itpoly/static/js/main.54894556.js",
+    "main.css": "/itpoly/static/css/main.2fa43419.css",
+    "main.js": "/itpoly/static/js/main.2d94bd47.js",
+    "static/media/2.jpg": "/itpoly/static/media/2.bad91c4949fdce468ad3.jpg",
+    "static/media/poly.jpg": "/itpoly/static/media/poly.6dfcd74d509be7269e56.jpg",
+    "static/media/01.jpg": "/itpoly/static/media/01.eef8f38eeb99c85561e6.jpg",
+    "static/media/3.jpg": "/itpoly/static/media/3.3f57e5fe3e7b75edefc7.jpg",
+    "static/media/map.jpg": "/itpoly/static/media/map.83af127b4df02a2aeabd.jpg",
+    "static/media/it.jpg": "/itpoly/static/media/it.bf07adba560d18b65e8e.jpg",
     "index.html": "/itpoly/index.html",
-    "main.10098903.css.map": "/itpoly/static/css/main.10098903.css.map",
-    "main.54894556.js.map": "/itpoly/static/js/main.54894556.js.map"
+    "main.2fa43419.css.map": "/itpoly/static/css/main.2fa43419.css.map",
+    "main.2d94bd47.js.map": "/itpoly/static/js/main.2d94bd47.js.map"
   },
   "entrypoints": [
-    "static/css/main.10098903.css",
-    "static/js/main.54894556.js"
+    "static/css/main.2fa43419.css",
+    "static/js/main.2d94bd47.js"
   ]
 }
